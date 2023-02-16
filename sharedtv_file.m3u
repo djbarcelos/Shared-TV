@@ -6,7 +6,7 @@ http://sharedtv.com
 #EXTINF:-1 tvg-id="globoplay.globo.com" tvg-logo="https://imgur.com/CaMJvCz.png" group-title="TV",GLOBO
 https://rebrand.ly/globo-tv
 
-#EXTINF:-1 tvg-id="Sbt.br" tvg-logo="https://imgur.com/3Mrx9Ee.png" group-title="TV",SBT - TV JORNAL (PE)
+#EXTINF:-1 tvg-id="Sbt.br" tvg-logo="https://imgur.com/3Mrx9Ee.png" group-title="TV",SBT
 http://evpp.mm.uol.com.br:1935/ne10/ne10.smil/playlist.m3u8?MARTINTV
 
 #EXTINF:-1 tvg-id="Bandnews.br" tvg-logo="https://imgur.com/DCeA5Jt.png" group-title="TV",BAND NEWS
