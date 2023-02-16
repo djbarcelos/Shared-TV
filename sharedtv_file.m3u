@@ -17,3 +17,6 @@ https://caikron.com.br:19360/criciuma/criciuma.m3u8
 
 #EXTINF:-1 tvg-id="Redetv.br" tvg-logo="https://imgur.com/56kCir9.png" group-title="TV",REDE TV!
 https://dtcatf1yeq90t.cloudfront.net/out/v1/474a19630faa47908e790373efc520d9/index_3.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="TV",HISTORY
+https://abrir.link/cTBcN
