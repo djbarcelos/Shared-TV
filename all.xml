@@ -1,3 +1,328 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tv SYSTEM "xmltv.dtd">
-<tv generator-info-name="www.matthuisman.nz" generated-ts="1676548601"></tv>
+<tv generator-info-name="www.matthuisman.nz" generated-ts="1676548601">
+<channel id="60072798dcf437000755b4f3">
+    <display-name>Paramount+ Apresenta</display-name>
+    <icon src="https://images.pluto.tv/channels/60072798dcf437000755b4f3/colorLogoPNG.png"/>
+  </channel>
+  <programme channel="60072798dcf437000755b4f3" start="20230216100500 +0000" stop="20230216110700 +0000">
+    <title>Catfish Brasil</title>
+    <episode-num system="onscreen">S01E102</episode-num>
+    <episode-num system="pluto">606b599533e416001a3fb874</episode-num>
+    <episode-num system="original-air-date">20160907000000 +0000</episode-num>
+    <desc>Jéssica e Gabriela se conheceram em uma sala de bate papo de um jogo virtual. Após quase dois anos de relação, Jéssica convoca Ciro e Ricardo para descobrir o motivo pelo qual Gabriela não aceita um encontro real entre as duas.</desc>
+    <icon src="https://images.pluto.tv/series/606b598c33e416001a3fb827/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=900"/>
+    <date>20160907</date>
+    <series-id system="pluto">606b598c33e416001a3fb827</series-id>
+    <sub-title>Jessica e Gabriella</sub-title>
+    <category>Series</category>
+    <category>Documentary</category>
+  </programme>
+   <programme channel="60072798dcf437000755b4f3" start="20230216110700 +0000" stop="20230216120000 +0000">
+    <title>Queen of the Universe</title>
+    <episode-num system="onscreen">S01E05</episode-num>
+    <episode-num system="pluto">6290de46f4fba6001a1d32e2</episode-num>
+    <episode-num system="original-air-date">20210101000000 +0000</episode-num>
+    <desc>O tema deste episódio é ‘Menina Má’. As Queens soltam suas feras para competir por uma vaga na final.</desc>
+    <icon src="https://images.pluto.tv/series/6290de42f4fba6001a1d3261/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=900"/>
+    <date>20210101</date>
+    <series-id system="pluto">6290de42f4fba6001a1d3261</series-id>
+    <sub-title>Meninas Más</sub-title>
+    <category>Competition Reality</category>
+    <category>Reality</category>
+    <category>Series</category>
+  </programme>
+ <programme channel="60072798dcf437000755b4f3" start="20230216120000 +0000" stop="20230216125800 +0000">
+    <title>Adotada</title>
+    <episode-num system="onscreen">S04E403</episode-num>
+    <episode-num system="pluto">606b8382f96a44001a1c4495</episode-num>
+    <episode-num system="original-air-date">20170425000000 +0000</episode-num>
+    <desc>Mareu vai bater de frente com seus próprios medos e preconceitos convivendo numa família de atores que tentarão mostrar para Mareu como o teatro, a música e a dança podem tornar a vida muito mais interessante.</desc>
+    <icon src="https://images.pluto.tv/series/606b59b08fe583001a4e8e1d/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=900"/>
+    <date>20170425</date>
+    <series-id system="pluto">606b59b08fe583001a4e8e1d</series-id>
+    <sub-title>Casa Atores</sub-title>
+    <category>Series</category>
+    <category>Documentary</category>
+  </programme>
+  <programme channel="60072798dcf437000755b4f3" start="20230216125800 +0000" stop="20230216132300 +0000">
+    <title>Awkward</title>
+    <episode-num system="onscreen">S01E04</episode-num>
+    <episode-num system="pluto">6082dc1d8213d1001a52fdaa</episode-num>
+    <episode-num system="original-air-date">20110101000000 +0000</episode-num>
+    <desc>Todos que estiveram na jacuzzi da festa de Lisa ficaram com conjuntivite, incluindo Tamara. Na festa da fogueira, Jenna está determinada em definir sua relação com Matty antes do fim da noite.</desc>
+    <icon src="https://images.pluto.tv/series/601ab6f600da4e00138c3a31/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=900"/>
+    <date>20110101</date>
+    <series-id system="pluto">601ab6f600da4e00138c3a31</series-id>
+    <sub-title>Olhos escarlate</sub-title>
+    <category>Drama</category>
+    <category>Series</category>
+    <category>Dramedy</category>
+  </programme>
+ <programme channel="60072798dcf437000755b4f3" start="20230216132300 +0000" stop="20230216141200 +0000">
+    <title>Floribama Shore</title>
+    <episode-num system="onscreen">S01E01</episode-num>
+    <episode-num system="pluto">626820e787cec400135ac917</episode-num>
+    <episode-num system="original-air-date">20170101000000 +0000</episode-num>
+    <desc>8 jovens sulistas dos Estados Unidos decidem passar o verão evitando os problemas e responsabilidades da vida adulta na esperança de encontrarem amor e diversão.</desc>
+    <icon src="https://images.pluto.tv/series/6082dc218213d1001a52fe11/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=900"/>
+    <date>20170101</date>
+    <series-id system="pluto">6082dc218213d1001a52fe11</series-id>
+    <sub-title>Episodio 1</sub-title>
+    <category>Dating Show</category>
+    <category>Reality</category>
+    <category>Series</category>
+  </programme>
+ <programme channel="60072798dcf437000755b4f3" start="20230216141200 +0000" stop="20230216150400 +0000">
+    <title>Acapulco Shore</title>
+    <episode-num system="onscreen">S01E03</episode-num>
+    <episode-num system="pluto">6290de17f4fba6001a1d23c3</episode-num>
+    <episode-num system="original-air-date">20140101000000 +0000</episode-num>
+    <desc>Continua a festa em AcaShore, e está vez será todos contra todos! Além disso, veremos as lições de etiqueta com o Garoto da Selva, a noite de karaokê e as briga no Antro.</desc>
+    <icon src="https://images.pluto.tv/series/601ac1c361334a001a0d8a02/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=900"/>
+    <date>20140101</date>
+    <series-id system="pluto">601ac1c361334a001a0d8a02</series-id>
+    <sub-title>Episódio 3</sub-title>
+    <category>Dating Show</category>
+    <category>Reality</category>
+    <category>Series</category>
+  </programme>
+ <programme channel="60072798dcf437000755b4f3" start="20230216150400 +0000" stop="20230216160100 +0000">
+    <title>A Culpa é do Cabral</title>
+    <episode-num system="onscreen">S02E210</episode-num>
+    <episode-num system="pluto">606b5f68a224c9001bb90c3f</episode-num>
+    <episode-num system="original-air-date">20230216000000 +0000</episode-num>
+    <desc>Neste episódio, os meninos dão conselhos furados, falam sobre as festas de fim de ano e também do nosso jeitinho brasileiro. Além disso, eles decidem que é hora de trocarem de personalidade e um deverá interpretar o outro.</desc>
+    <icon src="https://images.pluto.tv/series/606b5c443bbc1b001aee1355/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=900"/>
+    <date>20230216</date>
+    <series-id system="pluto">606b5c443bbc1b001aee1355</series-id>
+    <sub-title>Fim de Ano</sub-title>
+    <category>Comedy</category>
+    <category>Series</category>
+    <category>Foreign Comedies</category>
+  </programme>
+ <programme channel="60072798dcf437000755b4f3" start="20230216160100 +0000" stop="20230216165900 +0000">
+    <title>De Férias Com o Ex Brasil</title>
+    <episode-num system="onscreen">S01E109</episode-num>
+    <episode-num system="pluto">600758cc813b2d001b688a1a</episode-num>
+    <episode-num system="original-air-date">20161208000000 +0000</episode-num>
+    <desc>Elton e Keroline se beijam e dormem juntos. Alex tem uma DR com Gabrielli, que se encanta por Gabriel.</desc>
+    <icon src="https://images.pluto.tv/series/600758bd813b2d001b68893a/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=900"/>
+    <date>20161208</date>
+    <series-id system="pluto">600758bd813b2d001b68893a</series-id>
+    <sub-title>Episódio 9</sub-title>
+    <category>Series</category>
+    <category>Documentary</category>
+  </programme>
+  <programme channel="60072798dcf437000755b4f3" start="20230216165900 +0000" stop="20230216180100 +0000">
+    <title>Rio Shore</title>
+    <episode-num system="onscreen">S01E10</episode-num>
+    <episode-num system="pluto">61ae1493fdb1060013128668</episode-num>
+    <episode-num system="original-air-date">20210101000000 +0000</episode-num>
+    <desc>Os Shores vão a um baile de máscaras e encontram novos amigos de Novinho. Vitória e Patrick se desentendem em uma situação nada comum.</desc>
+    <icon src="https://images.pluto.tv/series/614b3021bce9e900135c03dd/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=900"/>
+    <date>20210101</date>
+    <series-id system="pluto">614b3021bce9e900135c03dd</series-id>
+    <sub-title>Episódio 10</sub-title>
+    <category>Dating Show</category>
+    <category>Reality</category>
+    <category>Series</category>
+  </programme>
+
+  <programme channel="60072798dcf437000755b4f3" start="20230217170000 +0000" stop="20230217230000 +0000">
+    <title>Paramount+ Apresenta</title>
+    <episode-num system="pluto">49311614c03764ff59c0399a</episode-num>
+    <episode-num system="original-air-date">20230216115553 +0000</episode-num>
+    <icon src="https://images.pluto.tv/channels/60072798dcf437000755b4f3/featuredImage.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
+    <date>20230216</date>
+    <series-id system="pluto">29a832d346b4a86b6f4e4538</series-id>
+    <category>Series</category>
+  </programme>
+   <programme channel="60072798dcf437000755b4f3" start="20230217230000 +0000" stop="20230218050000 +0000">
+    <title>Paramount+ Apresenta</title>
+    <episode-num system="pluto">7cc38b58d4b1dcdef71adf53</episode-num>
+    <episode-num system="original-air-date">20230216115553 +0000</episode-num>
+    <icon src="https://images.pluto.tv/channels/60072798dcf437000755b4f3/featuredImage.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
+    <date>20230216</date>
+    <series-id system="pluto">ff77798b5ad3d77e112acaa3</series-id>
+    <category>Series</category>
+  </programme>
+ <programme channel="60072798dcf437000755b4f3" start="20230218050000 +0000" stop="20230218110000 +0000">
+    <title>Paramount+ Apresenta</title>
+    <episode-num system="pluto">4c5896d690750a31b56f5fa7</episode-num>
+    <episode-num system="original-air-date">20230216115553 +0000</episode-num>
+    <icon src="https://images.pluto.tv/channels/60072798dcf437000755b4f3/featuredImage.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
+    <date>20230216</date>
+    <series-id system="pluto">a56046f1fe4231ccc6d2a67f</series-id>
+    <category>Series</category>
+  </programme>
+ <programme channel="60072798dcf437000755b4f3" start="20230217050000 +0000" stop="20230217110000 +0000">
+    <title>Paramount+ Apresenta</title>
+    <episode-num system="pluto">14dba4486751af716b3d818b</episode-num>
+    <episode-num system="original-air-date">20230216115553 +0000</episode-num>
+    <icon src="https://images.pluto.tv/channels/60072798dcf437000755b4f3/featuredImage.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
+    <date>20230216</date>
+    <series-id system="pluto">3ea2906d280a8d15af2787ba</series-id>
+    <category>Series</category>
+  </programme>
+ <programme channel="60072798dcf437000755b4f3" start="20230218110000 +0000" stop="20230218170000 +0000">
+    <title>Paramount+ Apresenta</title>
+    <episode-num system="pluto">52b84459ca4bb776202b373e</episode-num>
+    <episode-num system="original-air-date">20230216115553 +0000</episode-num>
+    <icon src="https://images.pluto.tv/channels/60072798dcf437000755b4f3/featuredImage.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
+    <date>20230216</date>
+    <series-id system="pluto">d0503530c7c8805530740ff8</series-id>
+    <category>Series</category>
+  </programme>
+ <programme channel="60072798dcf437000755b4f3" start="20230217110000 +0000" stop="20230217170000 +0000">
+    <title>Paramount+ Apresenta</title>
+    <episode-num system="pluto">06530ca9c114866cc957979d</episode-num>
+    <episode-num system="original-air-date">20230216115553 +0000</episode-num>
+    <icon src="https://images.pluto.tv/channels/60072798dcf437000755b4f3/featuredImage.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
+    <date>20230216</date>
+    <series-id system="pluto">7b373fa2162423abb8e33e9b</series-id>
+    <category>Series</category>
+  </programme>
+   <programme channel="60072798dcf437000755b4f3" start="20230216230000 +0000" stop="20230216235700 +0000">
+    <title>A Culpa é do Cabral</title>
+    <episode-num system="onscreen">S02E210</episode-num>
+    <episode-num system="pluto">606b5f68a224c9001bb90c3f</episode-num>
+    <episode-num system="original-air-date">20230216000000 +0000</episode-num>
+    <desc>Neste episódio, os meninos dão conselhos furados, falam sobre as festas de fim de ano e também do nosso jeitinho brasileiro. Além disso, eles decidem que é hora de trocarem de personalidade e um deverá interpretar o outro.</desc>
+    <icon src="https://images.pluto.tv/series/606b5c443bbc1b001aee1355/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=900"/>
+    <date>20230216</date>
+    <series-id system="pluto">606b5c443bbc1b001aee1355</series-id>
+    <sub-title>Fim de Ano</sub-title>
+    <category>Comedy</category>
+    <category>Series</category>
+    <category>Foreign Comedies</category>
+  </programme>
+  <programme channel="60072798dcf437000755b4f3" start="20230216235700 +0000" stop="20230217050000 +0000">
+    <title>Paramount+ Apresenta</title>
+    <episode-num system="pluto">4aa5c5448278b08f711fcb51</episode-num>
+    <episode-num system="original-air-date">20230216115553 +0000</episode-num>
+    <icon src="https://images.pluto.tv/channels/60072798dcf437000755b4f3/featuredImage.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
+    <date>20230216</date>
+    <series-id system="pluto">1e9d82938192cf540b8ded71</series-id>
+    <category>Series</category>
+  </programme>
+  <programme channel="60072798dcf437000755b4f3" start="20230218170000 +0000" stop="20230218230000 +0000">
+    <title>Paramount+ Apresenta</title>
+    <episode-num system="pluto">b038ab3d404af97e45329760</episode-num>
+    <episode-num system="original-air-date">20230216115553 +0000</episode-num>
+    <icon src="https://images.pluto.tv/channels/60072798dcf437000755b4f3/featuredImage.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
+    <date>20230216</date>
+    <series-id system="pluto">19292d39b53c4cdf9f89bbc0</series-id>
+    <category>Series</category>
+  </programme>
+  <programme channel="60072798dcf437000755b4f3" start="20230216165900 +0000" stop="20230216180100 +0000">
+    <title>Rio Shore</title>
+    <episode-num system="onscreen">S01E10</episode-num>
+    <episode-num system="pluto">61ae1493fdb1060013128668</episode-num>
+    <episode-num system="original-air-date">20210101000000 +0000</episode-num>
+    <desc>Os Shores vão a um baile de máscaras e encontram novos amigos de Novinho. Vitória e Patrick se desentendem em uma situação nada comum.</desc>
+    <icon src="https://images.pluto.tv/series/614b3021bce9e900135c03dd/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=900"/>
+    <date>20210101</date>
+    <series-id system="pluto">614b3021bce9e900135c03dd</series-id>
+    <sub-title>Episódio 10</sub-title>
+    <category>Dating Show</category>
+    <category>Reality</category>
+    <category>Series</category>
+  </programme>
+  <programme channel="60072798dcf437000755b4f3" start="20230216180100 +0000" stop="20230216190300 +0000">
+    <title>Catfish Brasil</title>
+    <episode-num system="onscreen">S01E102</episode-num>
+    <episode-num system="pluto">606b599533e416001a3fb874</episode-num>
+    <episode-num system="original-air-date">20160907000000 +0000</episode-num>
+    <desc>Jéssica e Gabriela se conheceram em uma sala de bate papo de um jogo virtual. Após quase dois anos de relação, Jéssica convoca Ciro e Ricardo para descobrir o motivo pelo qual Gabriela não aceita um encontro real entre as duas.</desc>
+    <icon src="https://images.pluto.tv/series/606b598c33e416001a3fb827/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=900"/>
+    <date>20160907</date>
+    <series-id system="pluto">606b598c33e416001a3fb827</series-id>
+    <sub-title>Jessica e Gabriella</sub-title>
+    <category>Series</category>
+    <category>Documentary</category>
+  </programme>
+  <programme channel="60072798dcf437000755b4f3" start="20230216190300 +0000" stop="20230216195600 +0000">
+    <title>Queen of the Universe</title>
+    <episode-num system="onscreen">S01E05</episode-num>
+    <episode-num system="pluto">6290de46f4fba6001a1d32e2</episode-num>
+    <episode-num system="original-air-date">20210101000000 +0000</episode-num>
+    <desc>O tema deste episódio é ‘Menina Má’. As Queens soltam suas feras para competir por uma vaga na final.</desc>
+    <icon src="https://images.pluto.tv/series/6290de42f4fba6001a1d3261/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=900"/>
+    <date>20210101</date>
+    <series-id system="pluto">6290de42f4fba6001a1d3261</series-id>
+    <sub-title>Meninas Más</sub-title>
+    <category>Competition Reality</category>
+    <category>Reality</category>
+    <category>Series</category>
+  </programme>
+  <programme channel="60072798dcf437000755b4f3" start="20230216195600 +0000" stop="20230216205400 +0000">
+    <title>Adotada</title>
+    <episode-num system="onscreen">S04E403</episode-num>
+    <episode-num system="pluto">606b8382f96a44001a1c4495</episode-num>
+    <episode-num system="original-air-date">20170425000000 +0000</episode-num>
+    <desc>Mareu vai bater de frente com seus próprios medos e preconceitos convivendo numa família de atores que tentarão mostrar para Mareu como o teatro, a música e a dança podem tornar a vida muito mais interessante.</desc>
+    <icon src="https://images.pluto.tv/series/606b59b08fe583001a4e8e1d/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=900"/>
+    <date>20170425</date>
+    <series-id system="pluto">606b59b08fe583001a4e8e1d</series-id>
+    <sub-title>Casa Atores</sub-title>
+    <category>Series</category>
+    <category>Documentary</category>
+  </programme>
+  <programme channel="60072798dcf437000755b4f3" start="20230216205400 +0000" stop="20230216211900 +0000">
+    <title>Awkward</title>
+    <episode-num system="onscreen">S01E04</episode-num>
+    <episode-num system="pluto">6082dc1d8213d1001a52fdaa</episode-num>
+    <episode-num system="original-air-date">20110101000000 +0000</episode-num>
+    <desc>Todos que estiveram na jacuzzi da festa de Lisa ficaram com conjuntivite, incluindo Tamara. Na festa da fogueira, Jenna está determinada em definir sua relação com Matty antes do fim da noite.</desc>
+    <icon src="https://images.pluto.tv/series/601ab6f600da4e00138c3a31/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=900"/>
+    <date>20110101</date>
+    <series-id system="pluto">601ab6f600da4e00138c3a31</series-id>
+    <sub-title>Olhos escarlate</sub-title>
+    <category>Drama</category>
+    <category>Series</category>
+    <category>Dramedy</category>
+  </programme>
+  <programme channel="60072798dcf437000755b4f3" start="20230216211900 +0000" stop="20230216220800 +0000">
+    <title>Floribama Shore</title>
+    <episode-num system="onscreen">S01E01</episode-num>
+    <episode-num system="pluto">626820e787cec400135ac917</episode-num>
+    <episode-num system="original-air-date">20170101000000 +0000</episode-num>
+    <desc>8 jovens sulistas dos Estados Unidos decidem passar o verão evitando os problemas e responsabilidades da vida adulta na esperança de encontrarem amor e diversão.</desc>
+    <icon src="https://images.pluto.tv/series/6082dc218213d1001a52fe11/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=900"/>
+    <date>20170101</date>
+    <series-id system="pluto">6082dc218213d1001a52fe11</series-id>
+    <sub-title>Episodio 1</sub-title>
+    <category>Dating Show</category>
+    <category>Reality</category>
+    <category>Series</category>
+  </programme>
+  <programme channel="60072798dcf437000755b4f3" start="20230216220800 +0000" stop="20230216230000 +0000">
+    <title>Acapulco Shore</title>
+    <episode-num system="onscreen">S01E03</episode-num>
+    <episode-num system="pluto">6290de17f4fba6001a1d23c3</episode-num>
+    <episode-num system="original-air-date">20140101000000 +0000</episode-num>
+    <desc>Continua a festa em AcaShore, e está vez será todos contra todos! Além disso, veremos as lições de etiqueta com o Garoto da Selva, a noite de karaokê e as briga no Antro.</desc>
+    <icon src="https://images.pluto.tv/series/601ac1c361334a001a0d8a02/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=900"/>
+    <date>20140101</date>
+    <series-id system="pluto">601ac1c361334a001a0d8a02</series-id>
+    <sub-title>Episódio 3</sub-title>
+    <category>Dating Show</category>
+    <category>Reality</category>
+    <category>Series</category>
+  </programme>
+  <programme channel="60072798dcf437000755b4f3" start="20230216230000 +0000" stop="20230216235700 +0000">
+    <title>A Culpa é do Cabral</title>
+    <episode-num system="onscreen">S02E210</episode-num>
+    <episode-num system="pluto">606b5f68a224c9001bb90c3f</episode-num>
+    <episode-num system="original-air-date">20230216000000 +0000</episode-num>
+    <desc>Neste episódio, os meninos dão conselhos furados, falam sobre as festas de fim de ano e também do nosso jeitinho brasileiro. Além disso, eles decidem que é hora de trocarem de personalidade e um deverá interpretar o outro.</desc>
+    <icon src="https://images.pluto.tv/series/606b5c443bbc1b001aee1355/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=900"/>
+    <date>20230216</date>
+    <series-id system="pluto">606b5c443bbc1b001aee1355</series-id>
+    <sub-title>Fim de Ano</sub-title>
+    <category>Comedy</category>
+    <category>Series</category>
+    <category>Foreign Comedies</category>
+  </programme>
+</tv>
