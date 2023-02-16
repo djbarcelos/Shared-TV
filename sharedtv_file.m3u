@@ -3,8 +3,8 @@ http://sharedtv.com
 
 ############################### TV ABERTA #############################################
 
-#EXTINF:-1 tvg-id="globoplay.globo.com" tvg-logo="" group-title="TV",GLOBO
-https://live-cm-ah-15-15.video.globo.com/j/eyJhbGciOiJSUzUxMiIsImtpZCI6IjEiLCJ0eXAiOiJKV1QifQ.eyJjb3VudHJ5X2NvZGUiOiJCUiIsImRvbWFpbiI6ImxpdmUtY20tYWgtMTUtMTUudmlkZW8uZ2xvYm8uY29tIiwiZXhwIjoxNjc2NjMzNTU4LCJpYXQiOjE2NzY1NDcxNTgsImlzcyI6InBsYXliYWNrLWFwaS1wcm9kLWdjcCIsIm93bmVyIjoiZWNkNGU0OGQtYTE2Ni00MzA0LTgzMWYtOTRkNmZkYjExMTJlIiwicGF0aCI6Ii9udS9mKGJNaW49MjAwMCxkdnI9MTIwLGk9MikvZ2xvYm8tYmgvcGxheWxpc3QubTN1OCJ9.SOEtuHrC6E1wV2_QHd8L0cnP1vnzEmXVJJ1s9Cpmv3wv1gYJoORId3yBq-9OINOB-6F0C2jnu0gHtzMpW6uYK9w5ToEXcAqZEgyKZuOHtpgTutDlaqT6sJ5wtwRiEt1euiPmY_yL-H9A_-3LyRVk779loHbPEoLaDq0runQzFA6WaMVK45d_uMSrjKbpL_amYtJXyrooGMxPRiHPspUnlyW-HjaKOeBN29lsYzmgow7f8dkMOczfINyPw3ZUt9PHV4TERXUBU0KjdEafO68AvC1abYCjevgNMfagyUQ4jqc5GQaR8F23lRQHRn1kxQ7jy03-UPs-Q8IyDIkqJCOsxQ/nu/f(bMin=2000,dvr=120,i=2)/globo-bh/playlist.m3u8?originpath=/linear/hls/pa/event/d-kqKJhsQY2KJX-obypgIg/stream/8d12abd7-3ae8-4cf9-a501-874cd38622b2:SCL/variant/060f82f1830231423c7f873b5f02a93d/bandwidth/2751000.m3u8
+#EXTINF:-1 tvg-id="globoplay.globo.com" tvg-logo="https://imgur.com/CaMJvCz.png" group-title="TV",GLOBO
+https://rebrand.ly/globo-tv
 
 #EXTINF:-1 tvg-id="Sbt.br" tvg-logo="https://imgur.com/3Mrx9Ee.png" group-title="TV",SBT - TV JORNAL (PE)
 http://evpp.mm.uol.com.br:1935/ne10/ne10.smil/playlist.m3u8?MARTINTV
